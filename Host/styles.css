@@ -61,32 +61,37 @@ h1, h2, h3, h4, p {
 }
 
 #thor:hover {
-    background-image: url("https://media.giphy.com/media/8vnih78ZeNTu3BOCrn/giphy.gif");
+   /* background-image: url("https://media.giphy.com/media/8vnih78ZeNTu3BOCrn/giphy.gif");*/
+   background-image: url(images/thor.gif);
 }
 
 #ironman:hover {
-    background-image: url("https://media.giphy.com/media/8xomIW1DRelmo/giphy.gif");
+    /*background-image: url("https://media.giphy.com/media/8xomIW1DRelmo/giphy.gif");*/
+    background-image: url(images/ironman.gif);
 }
 
 #hulk:hover {
-    background-image: url("https://media.giphy.com/media/hvdL7Xcmperfi/giphy.gif");
+    /* background-image: url("https://media.giphy.com/media/hvdL7Xcmperfi/giphy.gif"); */
+    background-image: url(images/hulk.gif);
 }
 
 #captain:hover {
-    background-image: url("https://media.giphy.com/media/1lk1IcVgqPLkA/giphy.gif");
+    /* background-image: url("https://media.giphy.com/media/1lk1IcVgqPLkA/giphy.gif"); */
+    background-image: url(images/captain.gif);
 }
 
 #blackwidow:hover {
-    background-image: url("https://media.giphy.com/media/VKFfxB2skRYZO/giphy.gif");
+    /* background-image: url("https://media.giphy.com/media/VKFfxB2skRYZO/giphy.gif"); */
+    background-image: url(images/blackwidow.gif);
 	background-size: cover;
 }
 #thanos:hover {
-    background-image: url("https://media.giphy.com/media/iIFS20pNoCg1EEVodC/giphy.gif");
-	
+    /* background-image: url("https://media.giphy.com/media/iIFS20pNoCg1EEVodC/giphy.gif"); */
+	background-image: url(images/thanos.gif);
 }
 #hawkeye:hover {
-    background-image: url("https://media.giphy.com/media/KAIHq4s57HAZO/giphy.gif");
-	
+    /* background-image: url("https://media.giphy.com/media/KAIHq4s57HAZO/giphy.gif"); */
+	background-image: url(images/hawkeye.gif);
 }
 
 
